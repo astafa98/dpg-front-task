@@ -22,7 +22,7 @@
 	/**
 	 * Переменные 
 	 */
-  // ... (импорты остаются без изменений)
+  //
 
   let posts: IPost[] | undefined = undefined;
   let error: string | null = null;
